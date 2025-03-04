@@ -1,0 +1,33 @@
+# Power BI - Cost of Living Analysis
+
+## 📌 Project Overview
+This project is an interactive Power BI dashboard analyzing the **Cost of Living** in different countries. The main focus is on **filters and navigation buttons** to enhance user experience when exploring the dataset. Additionally, a **custom mapping file** was created to link countries to continents, allowing for better visualization on maps.
+## 🎯 Objectives
+AAAA
+## 📊 Data Source
+- **Primary Data**: [Kaggle](https://www.kaggle.com/datasets/myrios/cost-of-living-index-by-country-by-number-2024) - Cost of Living dataset.
+- **Custom Data**: Manually created country-to-continent mapping file.
+# 📂 Project Structure
+```
+📁 01.PROJECT-1-COST-LIVING
+│── 📂 DATA
+│   ├── Cost_of_Living_Index_by_Country.csv  # Cost of Living dataset
+│   ├── Countries-Continents.csv  # Custom mapping file
+│
+│── 📂 IMAGES  # Screenshots of the Power BI report
+│   ├── home 1.png
+│   ├── home 2.png
+│   ├── home 3.png
+│   ├── mapa 1.png
+│   ├── mapa 2.png
+│   ├── mapa 3.png
+│   ├── wykres 1.png
+│   ├── wykres 2.png
+│   ├── wykres 3.png
+│
+│── POWER_BI_PROJEKT_1.pbix  # Power BI project file
+│── README.md  # Project documentation
+## 🖼️ Screenshots
+
+## 📬 Contact
+For questions or collaboration, reach out via GitHub or LinkedIn!

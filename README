@@ -1,4 +1,4 @@
-# Power BI - Cost of Living Analysis
+# Power BI - Cost of Living Analysis  
 
 ## 📌 Project Overview
 This project is an interactive Power BI dashboard analyzing the **Cost of Living** in different countries. The main focus is on **filters and navigation buttons** to enhance user experience when exploring the dataset. Additionally, a **custom mapping file** was created to link countries to continents, allowing for better visualization on maps.
